@@ -1,6 +1,6 @@
-###Creating submittal for Getting and Cleaning Data Class Final Assignment
+##Creating submittal for Getting and Cleaning Data Class Final Assignment
 _____________________________________________________________________________
-##Prepared and submitted by Sidda Reddy Pedaballi for Peer Review
+####Prepared and submitted by Sidda Reddy Pedaballi for Peer Review
 _____________________________________________________________________________
 The following files were collected from the Assignment Dataset
 
