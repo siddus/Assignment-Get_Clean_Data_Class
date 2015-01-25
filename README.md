@@ -15,7 +15,7 @@ The following files were collected from the Assignment Dataset
 The following files are available for the train and test data. Their descriptions are equivalent. 
 - 'train/subject_train.txt': Each row identifies the subject/volunteers who performed the activity for each window sample. Its range is from 1 to 30. For Training, 21 unique subject data and for Test, 9 unique subject data exists.
 
-The given problem is to process a typical field original/untidy dataset and to create a tidy dataset to preapre it ready for analysis. The processing includes merging, subsetting and transforming etc.
+###The given problem is to process a typical field original/untidy dataset and to create a tidy dataset to preapre it ready for analysis. The processing includes merging, subsetting and transforming etc.
 
 
 The following outlines the steps involved in arriving at a tidy dataset.
