@@ -22,8 +22,8 @@ The following outlines the steps involved in arriving at a tidy dataset.
 -Please note that Inertial signals files Folder in both Training and Test datasets is ignored, since its data is not required in this analysis.
 -The common files for both TEST and TRAIN-activity_lables.txt and features.txt are read and stored in R
 -Next, R objects for all Training Datasets are created after reading the data.
-  -Feature names are assigned to the Training Datasets using names() function
-  -a Training Dataset masterfile is created by combining Training Data's Subject, Activity Names, and Training Set Datasets
+-Feature names are assigned to the Training Datasets using names() function
+-a Training Dataset masterfile is created by combining Training Data's Subject, Activity Names, and Training Set Datasets
 - SIMILARLY ANOTHER MASTER DATASET IS CREATED FOR "TEST" DATASET using its files
 - Both TRAINING and TEST datasets are merged to create a MASTER Dataset, as required in Step 1 of Assignment
 
