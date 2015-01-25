@@ -1,5 +1,4 @@
-# Assignment-Get_Clean_Data_Class
-##Creating submittal for Getting and Cleaning Data Class Final Assignment
+###Creating submittal for Getting and Cleaning Data Class Final Assignment
 _____________________________________________________________________________
 ##Prepared and submitted by Sidda Reddy Pedaballi for Peer Review
 _____________________________________________________________________________
@@ -27,8 +26,8 @@ The following outlines the steps involved in arriving at a tidy dataset.
   -Feature names are assigned to the Training Dataset using names() function
   -a Training Dataset masterfile is created by combining Training Data's Subject, Activity Names, and Training Set Datasets
 -SIMILARLY ANOTHER MASTER DATASET IS CREATED FOR "TEST" DATASET using its files
-- Both TRAINING and TEST datasets are merged to create a MASTER Dataset, as required in ##Step 1 of Assignment
-###STEP3
+- Both TRAINING and TEST datasets are merged to create a MASTER Dataset, as required in Step 1 of Assignment
+## STEP 1
 - Activity Labels are assigned to Activity codes using MATCH function as required in STEP 3 of Assignment
 
 - Using Select function of dplyr package variables names having "mean" and "std" are filtered out and a new dataset is created as required in Step 2 of Assignment
