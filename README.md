@@ -14,7 +14,7 @@ The following files were collected from the Assignment Dataset
 - 'test/y_test.txt': Test labels.
 
 The following files are available for the train and test data. Their descriptions are equivalent. 
-- 'train/subject_train.txt': Each row identifies the subject/volunteers who performed the activity for each window sample. Its range is from 1 to 30. For Training 21 unique subject data and for Test 9 unique subject data exists.
+- 'train/subject_train.txt': Each row identifies the subject/volunteers who performed the activity for each window sample. Its range is from 1 to 30. For Training, 21 unique subject data and for Test, 9 unique subject data exists.
 
 The given problem is to process a typical field original/untidy dataset and to create a tidy dataset to preapre it ready for analysis. The processing includes merging, subsetting and transforming etc.
 
@@ -27,7 +27,7 @@ The following outlines the steps involved in arriving at a tidy dataset.
   -Feature names are assigned to the Training Dataset using names() function
   -a Training Dataset masterfile is created by combining Training Data's Subject, Activity Names, and Training Set Datasets
 -SIMILARLY ANOTHER MASTER DATASET IS CREATED FOR "TEST" DATASET using its files
-- Both TRAINING and TEST datasets are merged to create a MASTER Dataset, as required in Step 1 of Assignment
+- Both TRAINING and TEST datasets are merged to create a MASTER Dataset, as required in ##Step 1 of Assignment
 
 - Activity Labels are assigned to Activity codes using MATCH function as required in STEP 3 of Assignment
 
